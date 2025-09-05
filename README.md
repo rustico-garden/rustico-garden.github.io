@@ -1,3 +1,5 @@
 # Portfólio de Marcenaria
 
-SSite estático com os trabalhos feitos.
+Site estático com os trabalhos feitos.
+
+Atualizado por https://github.com/lucas-lb-rocha.
